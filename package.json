@@ -1,0 +1,26 @@
+{
+  "name": "@grsjob/react-input-mask",
+  "version": "1.0.0",
+  "description": "input mask for custom components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grsjob/react-input-mask.git"
+  },
+  "keywords": [
+    "react",
+    "input-mask"
+  ],
+  "author": "grsjob",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grsjob/react-input-mask/issues"
+  },
+  "homepage": "https://github.com/grsjob/react-input-mask#readme",
+  "dependencies": {
+    "antd": "^5.2.0"
+  }
+}
